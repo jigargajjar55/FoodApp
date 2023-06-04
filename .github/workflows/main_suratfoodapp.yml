@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'SuratFoodApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B603259AD3144ADBA01A825D049C3257 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35EA180184364C0BBD817741735891ED }}
           package: .
