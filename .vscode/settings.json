@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/0aa8409c-0b59-412c-a751-7dbb9ed919ab/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SuratFoodApp",
+  "appService.deploySubpath": "."
+}
